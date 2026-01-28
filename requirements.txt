@@ -1,0 +1,12 @@
+torch
+bpemb
+numpy
+requests
+pymagnitude-light
+colorama>=0.4.3
+poutyne
+gensim>=4.2.0
+fasttext-wheel
+pandas
+urllib3
+cloudpathlib[s3, gs, azure]
