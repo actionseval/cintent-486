@@ -24,7 +24,7 @@ jobs:
       # CINTENT >> INSERT_CINTENT
       - uses: JavidDitty/setup-cintent@main
         with:
-          nonblocking: true
+          profiler: "setprofile"
 
       - name: Install dependencies
         run: |
